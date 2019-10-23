@@ -12,3 +12,5 @@
 
 ## Feature 1
 ## Feature 1 fix
+
+## Feature 2
